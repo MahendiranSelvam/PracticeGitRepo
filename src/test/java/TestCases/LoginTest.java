@@ -7,7 +7,7 @@ public class LoginTest {
     @Test
     public void LoginMethod(){
 
-        System.out.println("Inside Login Method");
+        System.out.println("Inside Login Method Rework");
 
     }
 
